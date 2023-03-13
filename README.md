@@ -1,0 +1,2 @@
+# NFU_AutoLoginWifi
+一個解決需要自行輸入wifi登入網頁的解決方案
