@@ -8,4 +8,6 @@
 在有python的環境下，可以直接執行login.py
 
 ## Android裝置:
-安裝python環境執行，我使用Pydroid 3
+我使用termux並安裝python環境執行
+
+請注意不要用play商店的版本，請使用GitHub 的版本，下載好後需要先pkg update && pkg upgrade
