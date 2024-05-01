@@ -1,10 +1,7 @@
 import requests
 from bs4 import BeautifulSoup
 import getpass
-import json
-import os
 import keyring
-import sys
 
 NFU_DOMAIN = "nfu.edu.tw"
 
